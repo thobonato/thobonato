@@ -1,4 +1,4 @@
-### Hey, I'm Thomaz
+### Hey, I'm Thomaz!
 
 Engineer, researcher, and tech enthusiast. Originally from Brazil, now at USC in LA, working on AI and leading the university's startup incubator.
 
