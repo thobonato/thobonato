@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Thomaz!</h1>
-<h3 align="center">AI Engineer & Startup Ecosystem Leader at USC</h3>
+<h3 align="center">AI for Business @ USC || Trustee Scholar </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thobonato&label=Profile%20views&color=0e75b6&style=flat" alt="thobonato" />
