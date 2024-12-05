@@ -1,9 +1,38 @@
-### Hey, I'm Thomaz!
+<h1 align="center">Hey 👋, I'm Thomaz!</h1>
+<h3 align="center">AI Engineer & Startup Ecosystem Leader at USC</h3>
 
-Engineer, researcher, and tech enthusiast. Originally from Brazil, now at USC in LA, working on AI and leading the university's startup incubator.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thobonato&label=Profile%20views&color=0e75b6&style=flat" alt="thobonato" />
+</div>
 
-I’ve been building, learning, and solving problems across different tech stacks since 13.
+### About Me 🚀
 
-Most of my current work is in private repos — but feel free to explore what’s public. You can find more about my projects and journey [here](https://thomazbonato.vercel.app/).
+- 🔬 Currently leading USC's premier startup incubator
+- 🎓 AI Engineer and Researcher @ USC
+- 🌎 Originally from Brazil, now between LA & Boston
+- 💻 Tech enthusiast who started coding at age 13
+- 🛠️ Passionate about building, learning, and solving complex problems
+
+### What I'm Up To 💡
+
+- Working on LLM cluster-based probing with Kimon & Raman at USC
+- Building and mentoring the next generation of startups
+- Exploring Rust and AI infra
+
+### Find Me Around the Web 🌍
+- 🎯 Check out my [portfolio](https://thomazbonato.vercel.app/)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/thomaz-felipe-bonato/)
+- 📫 Reach my [email](mailto:bonato@usc.edu)
+
+### GitHub Stats 📊
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thobonato&show_icons=true&theme=dark&locale=en" alt="thobonato" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thobonato&theme=dark" alt="thobonato" />
+</p>
 
 ---
+<div align="center">
+  <i>Let's connect and build amazing things together!</i>
+</div>
