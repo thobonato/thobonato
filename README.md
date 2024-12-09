@@ -11,13 +11,12 @@
 - 🎓 AI Engineer and Researcher @ USC
 - 🌎 Originally from Brazil, now between LA & Boston
 - 💻 Tech enthusiast who started coding at age 13
-- 🛠️ Passionate about building, learning, and solving complex problems
+- 🛠️ Always learning and building
 
 ### What I'm Up To 💡
 
-- Working on LLM cluster-based probing with Kimon & Raman at USC
-- Building and mentoring the next generation of startups
-- Exploring Rust and AI infra
+- Working on LLM & cluster-based probing with [Kimon](https://scholar.google.com/citations?user=EfNJa-YAAAAJ&hl=en) & [Raman](https://scholar.google.ca/citations?user=vLbYPtwAAAAJ&hl=en) at USC
+- Building and mentoring the next generation of startups [here](https://uscsep.com/)
 
 ### Find Me Around the Web 🌍
 - 🎯 Check out my [portfolio](https://thomazbonato.vercel.app/)
@@ -34,5 +33,5 @@
 
 ---
 <div align="center">
-  <i>Let's connect and build amazing things together!</i>
+  <i>Let's connect!</i>
 </div>
