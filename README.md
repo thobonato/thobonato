@@ -25,9 +25,6 @@
 
 ### GitHub Stats 📊
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thobonato&show_icons=true&theme=dark&locale=en" alt="thobonato" />
-</p>
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thobonato&show_icons=true&theme=dark&locale=en&layout=compact" alt="thobonato" />
 </p>
 <p>
