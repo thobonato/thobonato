@@ -1,9 +1,6 @@
 <h1 align="center">Hey 👋, I'm Thomaz!</h1>
 <h3 align="center">AI for Business @ USC || Trustee Scholar </h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thobonato&label=Profile%20views&color=0e75b6&style=flat" alt="thobonato" />
-</div>
 
 ### About Me 🚀
 
@@ -30,6 +27,10 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thobonato&theme=dark" alt="thobonato" />
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thobonato&label=Profile%20views&color=0e75b6&style=flat" alt="thobonato" />
+</div>
 
 ---
 <div align="center">
