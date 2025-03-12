@@ -7,7 +7,7 @@
 - 🔬 Currently leading USC's premier startup incubator
 - 🎓 AI Engineer and Researcher @ USC
 - 🌎 Originally from Brazil, now between LA & Boston
-- 💻 Tech enthusiast who started coding at age 13
+- 💻 Tech enthusiast since 13 y.o.
 - 🛠️ Always learning and building
 
 ### What I'm Up To 💡
@@ -18,7 +18,7 @@
 ### Find Me Around the Web 🌍
 - 🎯 Check out my [portfolio](https://thomazbonato.vercel.app/)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/thomaz-felipe-bonato/)
-- 📫 Reach my [email](mailto:bonato@usc.edu)
+- 📫 Reach my email: bonato [at] usc [dot] edu
 
 ### GitHub Stats 📊
 <p>
