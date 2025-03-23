@@ -4,8 +4,8 @@
 
 ### About Me 🚀
 
-- 🔬 Currently leading USC's premier startup incubator
 - 🎓 AI Engineer and Researcher @ USC
+- - 🔬 prev. leading USC's premier startup incubator
 - 🌎 Originally from Brazil, now between LA & Boston
 - 💻 Tech enthusiast since 13 y.o.
 - 🛠️ Always learning and building
