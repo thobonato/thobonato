@@ -1,5 +1,6 @@
-Hey 👋, I'm Thomaz!
+Hey 👋, i'm thomaz
 
-- studying ai for business @ usc
+- currently building @ netic
 - originally from são paulo, brazil & now between la, sf & boston
-- always learning & building
+- ai for business @ usc
+
