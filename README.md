@@ -1,5 +1,5 @@
 hey 👋, i'm thomaz
 
 - currently @ netic
-- originally from são paulo, brazil & now between la & sf
+- originally from são paulo & now between la & sf
 - ai for business @ usc
