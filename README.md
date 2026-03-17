@@ -2,4 +2,4 @@ hey 👋, i'm thomaz
 
 - currently @ [netic](https://www.netic.ai/)
 - originally from são paulo & now between la & sf
-- studying [ai for business](https://www.marshall.usc.edu/programs/undergraduate-programs/undergraduate-degrees/bs-artificial-intelligence-for-business-buai) @ usc
+- [ai for business](https://www.marshall.usc.edu/programs/undergraduate-programs/undergraduate-degrees/bs-artificial-intelligence-for-business-buai) @ usc
